@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-#class and functions for the streaky match 
+#class and functions for the streaky match. 
 
 
 class Match_Switch:
