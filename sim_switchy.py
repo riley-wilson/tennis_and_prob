@@ -4,6 +4,7 @@ import matplotlib
 from switchy_match import *
 from collections import deque
 
+
 #simulation of the streaky match.
 
 def run_sim_switchy(p, p1, n):

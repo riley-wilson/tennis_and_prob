@@ -3,7 +3,8 @@ import matplotlib.pyplot as plt
 from choke_match import *
 from classic_match import *
 
-#runs the choke_match simulation and graphs the results. 
+
+#runs the choke_match simulation and graphs the results.
 
 x = np.linspace(.4,.6,50)
 

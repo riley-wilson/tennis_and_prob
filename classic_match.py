@@ -2,8 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-
-
 class Match:
 
     def __init__(self, p1): #sets up relevant variables. only takes the probability of player1 winning a point.

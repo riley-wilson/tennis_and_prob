@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 
 #class and functions for the streaky match. 
 
-
 class Match_Switch:
 
     def __init__(self, p1, p2): #sets up relevant variables. only takes the probability of player1 winning a point.

@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 
 #class and functions needed for the choke_match simulation.
 
+
 class Match_Choke:
 
     def __init__(self, p1, pc): #sets up relevant variables. only takes the probability of player1 winning a point.
@@ -16,7 +17,7 @@ class Match_Choke:
         self.player2_record = []
 
 
-        
+
     def play_3match_choke(self): #plays a 3-setter with a 7-point tiebreaker. Returns 0 if p1 wins and 1 if p2 does.
 
         winner = 0
